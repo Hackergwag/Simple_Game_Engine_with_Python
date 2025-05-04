@@ -58,7 +58,7 @@ Code write up: <br/>
 <br />
 <br />
 Code execution: <br/>
-<img src="https://imgur.com/w7rxaqr.png" height="80%" width="80%" alt="Python"/>
+<img src="https://imgur.com/eStoWwJ.png" height="80%" width="80%" alt="Python"/>
 </p>
 
 <!--
